@@ -1,0 +1,8 @@
+Flask~=1.1.2
+flask_sqlalchemy
+pymysql
+mysqlclient
+SQLAlchemy~=1.4.26
+Pillow
+scipy
+numpy
